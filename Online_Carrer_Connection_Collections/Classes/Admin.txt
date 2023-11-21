@@ -1,0 +1,23 @@
+class Admin{
+	final private String name="Batch-4";
+	final private String id="2A";
+	final private String mail="raviprakashreddymolaka@gmail.com";
+	final private String userName="RaviPrakash@031";
+	final private String password="Ravi@031";
+	public String getName() {
+		return name;
+	}
+	public String getId() {
+		return id;
+	}
+	public String getMail() {
+		return mail;
+	}
+	public String getUserName() {
+		return userName;
+	}
+	public String getPassword() {
+		return password;
+	}
+	
+}
